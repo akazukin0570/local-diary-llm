@@ -1,8 +1,14 @@
 # Local Diary LLM
 
-A privacy-focused desktop diary application powered by a locally running LLM.
+自身の内面も含めたなんでも書ける日記という非常にパーソナルな情報を扱うため、
+広くインターネット上に保存することに心理的な抵抗があり、ローカル実行を前提として設計しました。
 
-This project explores practical, local-first AI usage without relying on external APIs.
+結果として、外部APIやクラウドに依存しない構成となり、
+セキュリティ面でも安心できるアーキテクチャになっています。
+
+> A privacy-focused desktop diary application powered by a locally running LLM.
+> 
+> This project explores practical, secure, local-first AI usage without relying on external APIs.
 
 ---
 
