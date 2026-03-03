@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+config.json
+backup/
+chat_backup/
+prompt/
+venv/
+.env
